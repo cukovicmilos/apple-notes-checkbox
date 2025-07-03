@@ -30,7 +30,7 @@ This mimics the behavior of Apple Notes app, making your task lists more organiz
 
 ### Manual Installation
 
-1. Download the latest release from: https://mustrabecka.com/vibe-coding/obsidian/apple-notes-checkbox/apple-notes-checkbox.zip
+1. Download the latest release from: https://github.com/cukovicmilos/apple-notes-checkbox
 2. Extract the files to your vault's `.obsidian/plugins/apple-notes-checkbox/` folder
 3. Enable the plugin in Obsidian settings
 
