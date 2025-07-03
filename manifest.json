@@ -1,0 +1,11 @@
+{
+	"id": "apple-notes-checkbox",
+	"name": "Apple Notes Checkbox",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically moves checked checkbox items below unchecked items, just like Apple Notes",
+	"author": "chule",
+	"authorUrl": "https://mustrabecka.com",
+	"fundingUrl": "https://mustrabecka.com/vibe-coding/qrmitant/ips-qr-generator.html",
+	"isDesktopOnly": true
+}
