@@ -1,4 +1,4 @@
-# Apple Notes Checkbox
+# Apple Notes Checkbox (Obsidian plugin)
 
 Automatically moves checked checkbox items below unchecked items, just like Apple Notes app.
 
